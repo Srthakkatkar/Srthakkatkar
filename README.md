@@ -39,7 +39,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srthakkatkar&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/sarthakkatkar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@harisx0.7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-desai-28b0a2330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harisdesai007@gmail.com) 
