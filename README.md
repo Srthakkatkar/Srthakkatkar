@@ -32,6 +32,13 @@
 
 </p>
 
+## 📊 GitHub Stats:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Srthakkatkar&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srthakkatkar&theme=radical" width="48%" />
+</p>
+
 <p align="center">
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
