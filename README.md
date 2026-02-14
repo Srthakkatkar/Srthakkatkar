@@ -32,8 +32,8 @@ I am a passionate **B.Tech student** and an active member of the **Artificial In
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakkatkar&show_icons=true&theme=radical" alt="Sarthak's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkatkar&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srthakkatkar&show_icons=true&theme=radical" alt="Sarthak's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srthakkatkar&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
